@@ -1,3 +1,2 @@
-# x64_Shellcodes
-Repository of my shellcode payloads.  
-Some are position independant, some arent. Some are null-free, some arent. See chart below.
+# x64_Shellcodes 
+**Some are position independant, some are not. Some are null-free, some are not. See chart below.**
